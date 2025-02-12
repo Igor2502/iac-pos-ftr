@@ -21,6 +21,3 @@ export const bucketArn = bucket.arn;
 
 export const ecrName = ecr.name;
 export const ecrRepositoryUrl = ecr.repositoryUrl;
-
-
-// bdbpEC+ton+Xgj0oVsKidcProhM70nl4o/d6BaR8
