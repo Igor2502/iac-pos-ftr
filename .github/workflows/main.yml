@@ -45,3 +45,5 @@ jobs:
         with:
           command: up
           stack: Igor2502/stg
+        env:
+          PULUMI_ACCESS_TOKEN: ${{ secrets.PULUMI_ACCESS_TOKEN }}
